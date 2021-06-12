@@ -66,10 +66,8 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
  </tr>
 </table>
 <hr />
-
-   <h3>Work Experience</h3>
+<h3>Work Experience</h3>
    <table border="1px">
-   <thead>
      <tr>
        <th>
          Company
@@ -81,8 +79,6 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
          Year
        </th>
      </tr>
-   </thead>
-   <tbody>
      <tr>
        <td>
          Digital 360
@@ -97,6 +93,7 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
      <tr>
        <td>
          Little Heights
+       </td>
        <td>
          Content Writer
        </td>
@@ -115,7 +112,6 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
          2020-2021
        </td>
      </tr>
-   </tbody>
  </table>
  <hr />
    <h4><a href="Hobbies.html">My Hobbies</a></h4>
@@ -130,7 +126,5 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
      <input type="email" name="my-email"/><br />
      <input type="Submit" />
    </form>
-
 </body>
-
 </html>

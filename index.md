@@ -126,5 +126,3 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
      <input type="email" name="my-email"/><br />
      <input type="Submit" />
    </form>
-</body>
-</html>

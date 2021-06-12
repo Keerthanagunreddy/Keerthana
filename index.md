@@ -4,7 +4,6 @@
     <title> Keerthana's Personal Site</title>
   </head>
   <body>
-    <h1>Keerthana Gunreddy</h1>
     <table cellspacing="20">
       <tr>
         <td>
